@@ -1,9 +1,0 @@
-{
-  "name": "nuvren-waitlist-root",
-  "version": "1.0.0",
-  "description": "Root wrapper for Nuvren waitlist project",
-  "scripts": {
-    "start": "npm --prefix nuvren_waitlist start",
-    "dev": "npm --prefix nuvren_waitlist start"
-  }
-}
